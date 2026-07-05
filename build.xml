@@ -5,7 +5,7 @@
         <fileset dir="WebContent/WEB-INF/lib">
             <include name="*.jar"/>
         </fileset>
-    1</path>
+    </path>
     <target name="init">
         <mkdir dir="build/classes"/>
         <mkdir dir="dist"/>
